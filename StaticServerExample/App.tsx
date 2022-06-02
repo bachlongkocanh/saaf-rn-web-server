@@ -1,8 +1,4 @@
-/**
- * Sample React Native Static Server
- * https://github.com/futurepress/react-native-static-server
- * @flow
- */
+
 
 import React, { useState, useEffect } from 'react'
 import {
@@ -16,7 +12,7 @@ import {
 import 'react-native-get-random-values'
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { v4 as uuidv4 } from 'uuid'
-import StaticServer from 'react-native-static-server'
+import StaticServer from 'saaf-rn-web-server'
 import RNFetchBlob from 'rn-fetch-blob'
 import { WebView } from 'react-native-webview'
 

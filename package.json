@@ -1,25 +1,26 @@
 {
-  "name": "react-native-static-server",
-  "version": "0.5.0",
+  "name": "saaf-rn-web-server",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/futurepress/react-native-static-server.git",
-    "baseUrl": "https://github.com/futurepress/react-native-static-server"
+    "url": "git+https://github.com/357280841/saaf-rn-web-server.git",
+    "baseUrl": "https://github.com/357280841/saaf-rn-web-server"
   },
-  "homepage": "https://github.com/futurepress/react-native-static-server",
+  "homepage": "https://github.com/357280841/saaf-rn-web-server",
   "title": "React Native Static Server",
   "description": "HTTP static file server for React Native",
   "main": "index.js",
   "typings": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "npm publish"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Fred Chasen",
-    "email": "fchasen@gmail.com"
+    "name": "sola",
+    "email": "357280841@qq.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
@@ -33,6 +34,6 @@
     "ios",
     "index.js",
     "index.d.ts",
-    "react-native-static-server.podspec"
+    "saaf-rn-web-server.podspec"
   ]
 }

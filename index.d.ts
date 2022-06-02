@@ -1,4 +1,4 @@
-declare module 'react-native-static-server' {
+declare module 'saaf-rn-web-server' {
   type Options = {
     localOnly?: boolean
     keepAlive?: boolean
